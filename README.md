@@ -1,2 +1,2 @@
 # Sample-Repo
-Sample Repository from Class
+Sample Repository from Tonight's Class
