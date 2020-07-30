@@ -31,7 +31,10 @@ When an individual dog is selected from the list by clicking the dog name, the i
 The mapquest call uses the parsed address info from the petfinder call to pinpoint the shelter address, allowing the map image to be pulled back from mapquest and displayed alongside the dog detail and shelter contact info. 
 
 ## Screenshots
-[We'll attach screen shots here]
+![](assets/screenshot1.png)
+![](assets/screenshot2.png)
+![](assets/screenshot3.png)
+![](assets/screenshot4.png)<br>
 
 ## Links
 Git Hub Repository: https://github.com/rgsommer777/Project-1-Dog-Finder-App <br>
